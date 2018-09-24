@@ -28,6 +28,7 @@ module.exports = {
 
   // Generate dynamic routes
   generate: {
+    minify: false,
     async routes() {
       const { data } = await axios.get('https://jsonplaceholder.typicode.com/users')
       return data.map(user => `/users/${user.id}`)
