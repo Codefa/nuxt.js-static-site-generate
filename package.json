@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-static",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "latest",
+    "mkdirp-promise": "^5.0.1",
+    "nuxt": "latest"
+  }
+}
