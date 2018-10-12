@@ -1,572 +1,401 @@
-[
-  {
-    "_id": "5bc0fab04d03af02d1a52b36",
-    "index": 0,
-    "guid": "dee81e8c-3f4d-46e5-9a0e-f6375e4bd8f4",
-    "isActive": false,
-    "balance": "$2,519.30",
-    "picture": "http://placehold.it/32x32",
-    "age": 20,
-    "eyeColor": "green",
-    "name": {
-      "first": "Adams",
-      "last": "Briggs"
-    },
-    "company": "GEEKOSIS",
-    "email": "adams.briggs@geekosis.us",
-    "phone": "+1 (810) 401-3786",
-    "address": "243 Orange Street, Joppa, Minnesota, 2886",
-    "about": "Aliquip fugiat Lorem anim esse do do pariatur irure mollit. Incididunt occaecat sint ipsum ipsum duis esse reprehenderit mollit tempor in id aute laboris dolor. Ut sunt qui cupidatat aliqua sunt enim proident sunt dolor incididunt ea. Officia dolore dolore qui consequat incididunt amet sunt consequat minim ipsum pariatur et laborum. Aliquip culpa culpa elit nisi id duis duis labore laborum culpa irure nostrud enim.",
-    "registered": "Tuesday, September 23, 2014 7:39 PM",
-    "latitude": "32.3",
-    "longitude": "-158.09382",
-    "tags": [
-      "mollit",
-      "adipisicing",
-      "quis",
-      "consectetur",
-      "ad"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Joyner Donaldson"
-      },
-      {
-        "id": 1,
-        "name": "Traci Reynolds"
-      },
-      {
-        "id": 2,
-        "name": "Montgomery Kelly"
-      }
-    ],
-    "greeting": "Hello, Adams! You have 7 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5bc0fab08bd4fdb20848e49f",
-    "index": 1,
-    "guid": "56374314-1eda-48cf-8e53-343f913328aa",
-    "isActive": true,
-    "balance": "$1,455.81",
-    "picture": "http://placehold.it/32x32",
-    "age": 31,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Jacquelyn",
-      "last": "Finch"
-    },
-    "company": "SUREMAX",
-    "email": "jacquelyn.finch@suremax.biz",
-    "phone": "+1 (800) 500-3880",
-    "address": "535 Madison Place, Mammoth, Florida, 4401",
-    "about": "Et aliquip et reprehenderit et aliquip reprehenderit sint est proident. Est adipisicing ullamco in exercitation velit mollit. Sunt laboris amet et ex officia mollit duis nulla dolor adipisicing adipisicing officia aliquip eiusmod. Elit sunt consectetur culpa anim cupidatat qui pariatur enim. Laborum exercitation eiusmod enim aliqua cupidatat do quis consequat amet enim deserunt pariatur ex. Fugiat et amet mollit pariatur est nisi proident consequat consequat.",
-    "registered": "Monday, June 2, 2014 1:30 PM",
-    "latitude": "36.3",
-    "longitude": "-154.53586",
-    "tags": [
-      "eu",
-      "deserunt",
-      "exercitation",
-      "ipsum",
-      "excepteur"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Reese Skinner"
-      },
-      {
-        "id": 1,
-        "name": "Sheppard Casey"
-      },
-      {
-        "id": 2,
-        "name": "Lina Sawyer"
-      }
-    ],
-    "greeting": "Hello, Jacquelyn! You have 10 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5bc0fab0376ae900f03abf74",
-    "index": 2,
-    "guid": "0eaf586b-7625-4fb4-9a53-1f7901f59de8",
-    "isActive": false,
-    "balance": "$2,768.56",
-    "picture": "http://placehold.it/32x32",
-    "age": 40,
-    "eyeColor": "green",
-    "name": {
-      "first": "Lynda",
-      "last": "Guy"
-    },
-    "company": "CONFRENZY",
-    "email": "lynda.guy@confrenzy.biz",
-    "phone": "+1 (939) 598-2652",
-    "address": "210 Bridgewater Street, Eastmont, Montana, 2444",
-    "about": "Qui in consequat mollit non sunt. Laboris deserunt ullamco anim ea in aute. Enim esse adipisicing laboris elit tempor pariatur sunt quis quis quis.",
-    "registered": "Saturday, April 19, 2014 2:48 PM",
-    "latitude": "26.6",
-    "longitude": "-147.35673",
-    "tags": [
-      "dolore",
-      "excepteur",
-      "excepteur",
-      "aliquip",
-      "id"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Trevino Castillo"
-      },
-      {
-        "id": 1,
-        "name": "Jeannine Ellis"
-      },
-      {
-        "id": 2,
-        "name": "Emily Hicks"
-      }
-    ],
-    "greeting": "Hello, Lynda! You have 7 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5bc0fab0911632a8ca43cac6",
-    "index": 3,
-    "guid": "ae495d5b-e0e6-4d7e-81a0-6d9c00542dea",
-    "isActive": false,
-    "balance": "$3,745.76",
-    "picture": "http://placehold.it/32x32",
-    "age": 35,
-    "eyeColor": "green",
-    "name": {
-      "first": "White",
-      "last": "Carr"
-    },
-    "company": "XINWARE",
-    "email": "white.carr@xinware.info",
-    "phone": "+1 (849) 557-3759",
-    "address": "557 Greenwood Avenue, Ona, Alaska, 8748",
-    "about": "Aliquip sit pariatur duis consequat eiusmod deserunt. Deserunt eiusmod tempor incididunt voluptate. Nisi id duis nostrud laboris fugiat consequat proident velit elit nostrud dolore Lorem ipsum laboris.",
-    "registered": "Wednesday, February 21, 2018 3:00 PM",
-    "latitude": "50.6",
-    "longitude": "-71.29627",
-    "tags": [
-      "ex",
-      "quis",
-      "sit",
-      "non",
-      "consequat"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Ford Estrada"
-      },
-      {
-        "id": 1,
-        "name": "Annabelle Mcgowan"
-      },
-      {
-        "id": 2,
-        "name": "Nicholson Shelton"
-      }
-    ],
-    "greeting": "Hello, White! You have 5 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "5bc0fab0ec803b389caa1304",
-    "index": 4,
-    "guid": "13853d61-6bd9-4955-a695-2d51fb14806e",
-    "isActive": false,
-    "balance": "$1,773.70",
-    "picture": "http://placehold.it/32x32",
-    "age": 39,
-    "eyeColor": "green",
-    "name": {
-      "first": "Nettie",
-      "last": "Williamson"
-    },
-    "company": "INSURESYS",
-    "email": "nettie.williamson@insuresys.io",
-    "phone": "+1 (881) 548-2846",
-    "address": "851 Dooley Street, Rew, Tennessee, 3206",
-    "about": "Ea dolor sint et anim elit excepteur minim ipsum non amet exercitation cillum nostrud. Reprehenderit ipsum ullamco adipisicing ad esse aute. Ullamco ipsum adipisicing excepteur dolor et pariatur Lorem magna nulla officia pariatur Lorem. Cupidatat exercitation voluptate ad dolore aute adipisicing nisi officia commodo esse magna.",
-    "registered": "Thursday, August 9, 2018 10:11 AM",
-    "latitude": 38,
-    "longitude": "-123.52761",
-    "tags": [
-      "eu",
-      "esse",
-      "est",
-      "est",
-      "veniam"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Owen Barry"
-      },
-      {
-        "id": 1,
-        "name": "Freeman Hensley"
-      },
-      {
-        "id": 2,
-        "name": "Phelps Henry"
-      }
-    ],
-    "greeting": "Hello, Nettie! You have 5 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "5bc0fab059d0b019db6b455b",
-    "index": 5,
-    "guid": "8b735af8-e8ae-41f5-b85c-5e06c7fbd774",
-    "isActive": true,
-    "balance": "$3,347.17",
-    "picture": "http://placehold.it/32x32",
-    "age": 33,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Katharine",
-      "last": "Dorsey"
-    },
-    "company": "HAWKSTER",
-    "email": "katharine.dorsey@hawkster.tv",
-    "phone": "+1 (910) 536-3741",
-    "address": "484 Mill Road, Ferney, Utah, 9548",
-    "about": "Elit laborum non proident reprehenderit magna est consequat sit fugiat exercitation sit. Laboris cupidatat consequat quis do veniam officia in ullamco consectetur. Enim voluptate commodo anim ut amet ex Lorem laborum commodo eiusmod nisi voluptate voluptate. Esse occaecat commodo commodo dolor. Esse quis velit sit labore id occaecat fugiat esse.",
-    "registered": "Thursday, March 22, 2018 7:20 AM",
-    "latitude": "45.2",
-    "longitude": "-97.35814",
-    "tags": [
-      "labore",
-      "nostrud",
-      "eu",
-      "ullamco",
-      "quis"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Mcleod Fleming"
-      },
-      {
-        "id": 1,
-        "name": "Frances Gaines"
-      },
-      {
-        "id": 2,
-        "name": "Greer Mckenzie"
-      }
-    ],
-    "greeting": "Hello, Katharine! You have 6 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5bc0fab09906f917dc4a1d4a",
-    "index": 6,
-    "guid": "3e12ea7a-960e-4bf3-90f8-fde9fb7084af",
-    "isActive": true,
-    "balance": "$2,640.35",
-    "picture": "http://placehold.it/32x32",
-    "age": 33,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Love",
-      "last": "Gray"
-    },
-    "company": "FUELTON",
-    "email": "love.gray@fuelton.co.uk",
-    "phone": "+1 (963) 446-2363",
-    "address": "506 Calder Place, Tooleville, District Of Columbia, 173",
-    "about": "Proident amet id dolor elit cupidatat labore tempor aliquip ex magna voluptate. Ut dolor veniam magna sint. Laborum id adipisicing qui veniam duis anim aute nostrud. Esse sit nisi reprehenderit eu ad aliquip adipisicing aliquip enim. Irure do eu exercitation cillum qui ex quis ullamco.",
-    "registered": "Sunday, March 22, 2015 1:13 AM",
-    "latitude": "41.9",
-    "longitude": "-161.07165",
-    "tags": [
-      "deserunt",
-      "consectetur",
-      "do",
-      "nostrud",
-      "in"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Angeline Vang"
-      },
-      {
-        "id": 1,
-        "name": "Jessie Mccoy"
-      },
-      {
-        "id": 2,
-        "name": "Conner Lynch"
-      }
-    ],
-    "greeting": "Hello, Love! You have 9 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5bc0fab094ead741d3582387",
-    "index": 7,
-    "guid": "019e3991-d879-4107-85e8-83f24262ee19",
-    "isActive": false,
-    "balance": "$3,426.88",
-    "picture": "http://placehold.it/32x32",
-    "age": 37,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Petersen",
-      "last": "Chandler"
-    },
-    "company": "COASH",
-    "email": "petersen.chandler@coash.ca",
-    "phone": "+1 (964) 539-2617",
-    "address": "330 Seagate Avenue, Chamberino, Texas, 7536",
-    "about": "Culpa cillum nulla anim esse ea incididunt dolore occaecat enim consectetur commodo sit. Cupidatat minim laborum dolore fugiat laborum minim sunt ea adipisicing. In aute eiusmod et dolore qui aute voluptate elit. Nisi exercitation excepteur enim officia. Excepteur qui velit occaecat laboris cupidatat exercitation reprehenderit excepteur consequat fugiat aute voluptate. Proident laborum amet irure proident mollit deserunt sunt sunt eiusmod nulla commodo incididunt elit proident.",
-    "registered": "Tuesday, January 14, 2014 6:42 PM",
-    "latitude": "27.9",
-    "longitude": "-94.19394",
-    "tags": [
-      "minim",
-      "mollit",
-      "voluptate",
-      "do",
-      "minim"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Herring Adams"
-      },
-      {
-        "id": 1,
-        "name": "Mcguire Bentley"
-      },
-      {
-        "id": 2,
-        "name": "Wilda Wall"
-      }
-    ],
-    "greeting": "Hello, Petersen! You have 5 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5bc0fab0a784a788cf16a16a",
-    "index": 8,
-    "guid": "8e356c94-daff-439d-8bca-f7c8550215f0",
-    "isActive": false,
-    "balance": "$2,351.27",
-    "picture": "http://placehold.it/32x32",
-    "age": 40,
-    "eyeColor": "green",
-    "name": {
-      "first": "Minnie",
-      "last": "Gross"
-    },
-    "company": "PASTURIA",
-    "email": "minnie.gross@pasturia.org",
-    "phone": "+1 (977) 529-3202",
-    "address": "856 Lamont Court, Grantville, Hawaii, 309",
-    "about": "Cillum eiusmod ullamco laboris elit aute. Esse laborum commodo nisi enim Lorem cillum et proident. Excepteur consectetur elit sunt commodo duis Lorem laboris quis. Sunt incididunt tempor nulla reprehenderit culpa ex dolore nostrud do laborum laborum.",
-    "registered": "Friday, September 8, 2017 6:16 PM",
-    "latitude": "20.5",
-    "longitude": "-78.30022",
-    "tags": [
-      "pariatur",
-      "aliqua",
-      "enim",
-      "reprehenderit",
-      "mollit"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Ethel Avery"
-      },
-      {
-        "id": 1,
-        "name": "Hughes Cotton"
-      },
-      {
-        "id": 2,
-        "name": "Perkins Harper"
-      }
-    ],
-    "greeting": "Hello, Minnie! You have 9 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5bc0fab06fca40a7bf31a45a",
-    "index": 9,
-    "guid": "aa8b7de0-fd9d-4703-9f57-8869b22880a0",
-    "isActive": false,
-    "balance": "$1,880.25",
-    "picture": "http://placehold.it/32x32",
-    "age": 29,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Chase",
-      "last": "Wilkins"
-    },
-    "company": "SPORTAN",
-    "email": "chase.wilkins@sportan.name",
-    "phone": "+1 (929) 514-3669",
-    "address": "418 Stockholm Street, Neahkahnie, Connecticut, 1721",
-    "about": "Elit exercitation ea ullamco est deserunt enim excepteur laboris in excepteur dolor. Ipsum duis reprehenderit sit enim duis qui irure reprehenderit irure non mollit veniam proident. Aliquip ipsum laboris incididunt sunt ullamco commodo quis aute duis. Eiusmod esse proident eu voluptate sunt et eiusmod elit nisi quis. Aute ullamco sint ea sit aliqua anim elit ipsum excepteur enim exercitation reprehenderit. Exercitation aliquip in quis enim incididunt excepteur velit ex velit pariatur nisi et duis tempor. Aute amet minim labore velit quis laborum magna ad duis qui et est duis.",
-    "registered": "Friday, August 17, 2018 2:22 PM",
-    "latitude": "44.2",
-    "longitude": "-110.71554",
-    "tags": [
-      "ex",
-      "consequat",
-      "exercitation",
-      "ut",
-      "nisi"
-    ],
-    "range": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Rosario Perry"
-      },
-      {
-        "id": 1,
-        "name": "Daugherty Holder"
-      },
-      {
-        "id": 2,
-        "name": "Hall Cameron"
-      }
-    ],
-    "greeting": "Hello, Chase! You have 8 unread messages.",
-    "favoriteFruit": "apple"
-  }
-]
+[{
+  "city": "Ōkawara",
+  "lat": 35.5588061,
+  "lng": 138.0410863
+}, {
+  "city": "Krasna",
+  "lat": 48.2240339,
+  "lng": 23.9298885
+}, {
+  "city": "Gapuk",
+  "lat": -8.6743207,
+  "lng": 116.1093533
+}, {
+  "city": "El Plan",
+  "lat": 15.3242623,
+  "lng": -87.9506348
+}, {
+  "city": "Golmud",
+  "lat": 36.406404,
+  "lng": 94.928484
+}, {
+  "city": "São Joaquim",
+  "lat": -28.292455,
+  "lng": -49.9375873
+}, {
+  "city": "Sinmak",
+  "lat": 38.4215487,
+  "lng": 126.2332502
+}, {
+  "city": "Hejiayan",
+  "lat": 32.110878,
+  "lng": 118.724049
+}, {
+  "city": "Kupahandap",
+  "lat": -6.3323202,
+  "lng": 106.0316898
+}, {
+  "city": "Malé Svatoňovice",
+  "lat": 50.5339443,
+  "lng": 16.0497864
+}, {
+  "city": "Araçatuba",
+  "lat": -21.203385,
+  "lng": -50.4439728
+}, {
+  "city": "Si Satchanalai",
+  "lat": 17.4161103,
+  "lng": 99.7790227
+}, {
+  "city": "Vancouver",
+  "lat": 45.616422,
+  "lng": -122.5804528
+}, {
+  "city": "Laocheng",
+  "lat": 34.683646,
+  "lng": 112.469023
+}, {
+  "city": "Uralo-Kavkaz",
+  "lat": 48.3284147,
+  "lng": 39.7960619
+}, {
+  "city": "San Silvestre",
+  "lat": 8.2796966,
+  "lng": -70.109113
+}, {
+  "city": "Shangying",
+  "lat": 35.629547,
+  "lng": 104.026577
+}, {
+  "city": "Sohbatpur",
+  "lat": 28.4499078,
+  "lng": 68.4494842
+}, {
+  "city": "Sortavala",
+  "lat": 61.6487504,
+  "lng": 30.5926449
+}, {
+  "city": "Murfreesboro",
+  "lat": 35.8559647,
+  "lng": -86.3944828
+}, {
+  "city": "Al Jarrāḩī",
+  "lat": 14.1267545,
+  "lng": 43.3970188
+}, {
+  "city": "Aguelmous",
+  "lat": 33.1584786,
+  "lng": -5.8432964
+}, {
+  "city": "Atambua",
+  "lat": -9.101629,
+  "lng": 124.9120662
+}, {
+  "city": "Khurriānwāla",
+  "lat": 31.5233543,
+  "lng": 73.2571865
+}, {
+  "city": "Ibirama",
+  "lat": -27.01139,
+  "lng": -49.5483671
+}, {
+  "city": "Łapczyca",
+  "lat": 49.9513027,
+  "lng": 20.3412605
+}, {
+  "city": "Shucheng Chengguanzhen",
+  "lat": 31.466526,
+  "lng": 116.952766
+}, {
+  "city": "Bolinao",
+  "lat": 16.360983,
+  "lng": 119.843271
+}, {
+  "city": "Shādegān",
+  "lat": 30.6545969,
+  "lng": 48.6539268
+}, {
+  "city": "Zākhū",
+  "lat": 37.1504622,
+  "lng": 42.6726771
+}, {
+  "city": "Saint Catherine",
+  "lat": 28.5594209,
+  "lng": 33.9468956
+}, {
+  "city": "San Agustin",
+  "lat": 20.5439984,
+  "lng": -103.4649786
+}, {
+  "city": "Xiangjiazhai",
+  "lat": 30.89205,
+  "lng": 121.770149
+}, {
+  "city": "Burirao",
+  "lat": 9.159579,
+  "lng": 118.1437875
+}, {
+  "city": "Umabay",
+  "lat": 12.3198776,
+  "lng": 123.6895552
+}, {
+  "city": "Kadupayung",
+  "lat": -6.3629515,
+  "lng": 105.9156477
+}, {
+  "city": "Thị Trấn Sìn Hồ",
+  "lat": 22.3577742,
+  "lng": 103.2493721
+}, {
+  "city": "Quinta dos Frades",
+  "lat": 39.7553682,
+  "lng": -8.7451818
+}, {
+  "city": "Buyunshan",
+  "lat": 40.024639,
+  "lng": 122.711528
+}, {
+  "city": "Xieyang",
+  "lat": 34.329605,
+  "lng": 108.708991
+}, {
+  "city": "Bunutan",
+  "lat": -8.3661233,
+  "lng": 115.674668
+}, {
+  "city": "Gereneng",
+  "lat": -8.694019,
+  "lng": 116.5226451
+}, {
+  "city": "Mariestad",
+  "lat": 58.6701908,
+  "lng": 13.8508024
+}, {
+  "city": "Chegdomyn",
+  "lat": 51.1347637,
+  "lng": 133.0393804
+}, {
+  "city": "Shetangpo",
+  "lat": 28.231564,
+  "lng": 109.621875
+}, {
+  "city": "Evijärvi",
+  "lat": 63.3767052,
+  "lng": 23.472317
+}, {
+  "city": "Sicheng",
+  "lat": 29.5530941,
+  "lng": 118.9353968
+}, {
+  "city": "Krasnyy Lyman",
+  "lat": 48.9897585,
+  "lng": 37.8049964
+}, {
+  "city": "Cijayana",
+  "lat": -7.5352682,
+  "lng": 107.5682677
+}, {
+  "city": "Badulla",
+  "lat": 6.9894573,
+  "lng": 81.057569
+}, {
+  "city": "Daxing",
+  "lat": 39.726929,
+  "lng": 116.341395
+}, {
+  "city": "Khoyniki",
+  "lat": 51.9109552,
+  "lng": 29.9994415
+}, {
+  "city": "Ouango",
+  "lat": 4.3139754,
+  "lng": 22.5498389
+}, {
+  "city": "Artesianón",
+  "lat": "39.40278",
+  "lng": "21.89472"
+}, {
+  "city": "Pasir Mas",
+  "lat": 6.1090652,
+  "lng": 102.133622
+}, {
+  "city": "Los Andes",
+  "lat": -32.8337995,
+  "lng": -70.5972179
+}, {
+  "city": "Inta",
+  "lat": 54.9173747,
+  "lng": 73.4361761
+}, {
+  "city": "Sungai Nyamuk",
+  "lat": 4.1175121,
+  "lng": 117.8663075
+}, {
+  "city": "Pongola",
+  "lat": -33.7363181,
+  "lng": 25.3908518
+}, {
+  "city": "San Francisco",
+  "lat": 8.5057205,
+  "lng": 125.9772286
+}, {
+  "city": "Amboise",
+  "lat": 45.7595382,
+  "lng": 4.8310921
+}, {
+  "city": "Pueblo Nuevo Viñas",
+  "lat": 14.2233899,
+  "lng": -90.4751359
+}, {
+  "city": "Mazyr",
+  "lat": 52.0322082,
+  "lng": 29.222313
+}, {
+  "city": "Tsaghkahovit",
+  "lat": 40.6379848,
+  "lng": 44.2249621
+}, {
+  "city": "Osielsko",
+  "lat": 53.1872306,
+  "lng": 18.0963464
+}, {
+  "city": "Olocuilta",
+  "lat": 13.5681668,
+  "lng": -89.1158008
+}, {
+  "city": "Gabi",
+  "lat": 10.2600338,
+  "lng": 123.958258
+}, {
+  "city": "Bafang",
+  "lat": 5.1601362,
+  "lng": 10.1871351
+}, {
+  "city": "Shuiting",
+  "lat": 26.5807374,
+  "lng": 106.7152864
+}, {
+  "city": "Vodňany",
+  "lat": 49.1478969,
+  "lng": 14.1751311
+}, {
+  "city": "Viljakkala",
+  "lat": 61.7016711,
+  "lng": 23.2638837
+}, {
+  "city": "Kittilä",
+  "lat": 67.6955232,
+  "lng": 24.8590222
+}, {
+  "city": "Tambilil",
+  "lat": 5.9795827,
+  "lng": 124.6723608
+}, {
+  "city": "Sémé",
+  "lat": 15.2008428,
+  "lng": -12.9449928
+}, {
+  "city": "Shazhou",
+  "lat": 31.298974,
+  "lng": 120.585289
+}, {
+  "city": "Baguio",
+  "lat": 16.4112875,
+  "lng": 120.6026406
+}, {
+  "city": "Arma",
+  "lat": -12.09985,
+  "lng": -77.0197479
+}, {
+  "city": "Pescadería",
+  "lat": 18.2901598,
+  "lng": -71.1389101
+}, {
+  "city": "Parigi",
+  "lat": -0.819175,
+  "lng": 120.167297
+}, {
+  "city": "Tatabánya",
+  "lat": 47.585569,
+  "lng": 18.3979984
+}, {
+  "city": "Srubec",
+  "lat": 48.9480609,
+  "lng": 14.5413068
+}, {
+  "city": "Gumalang",
+  "lat": 7.1962805,
+  "lng": 125.4078017
+}, {
+  "city": "Pradera",
+  "lat": 3.4481685,
+  "lng": -76.1667807
+}, {
+  "city": "Chust Shahri",
+  "lat": 41.005341,
+  "lng": 71.236153
+}, {
+  "city": "Bang Phae",
+  "lat": 13.6784265,
+  "lng": 99.9576849
+}, {
+  "city": "Cambé",
+  "lat": -23.277052,
+  "lng": -51.2803152
+}, {
+  "city": "Miramichi",
+  "lat": "47.02895",
+  "lng": "-65.50186"
+}, {
+  "city": "Hashtpar",
+  "lat": 37.8016324,
+  "lng": 48.907262
+}, {
+  "city": "Tatarsk",
+  "lat": 55.1936526,
+  "lng": 75.9684541
+}, {
+  "city": "Mulhouse",
+  "lat": 47.7489727,
+  "lng": 7.3507066
+}, {
+  "city": "Kýthnos",
+  "lat": 37.3933984,
+  "lng": 24.4173321
+}, {
+  "city": "Metz",
+  "lat": 49.116169,
+  "lng": 6.1807997
+}, {
+  "city": "Yulin",
+  "lat": 22.654032,
+  "lng": 110.18122
+}, {
+  "city": "Mileb",
+  "lat": 14.6293712,
+  "lng": 121.1072374
+}, {
+  "city": "Puerta de Corral Quemado",
+  "lat": -34.6255137,
+  "lng": -58.4322185
+}, {
+  "city": "Zelenogradsk",
+  "lat": 54.9562342,
+  "lng": 20.4747022
+}, {
+  "city": "Jakobstad",
+  "lat": 63.6939838,
+  "lng": 22.7427761
+}, {
+  "city": "Lipovci",
+  "lat": 46.6275321,
+  "lng": 16.2176399
+}, {
+  "city": "Liandu",
+  "lat": 28.445928,
+  "lng": 119.912626
+}, {
+  "city": "Chigorodó",
+  "lat": 7.665099,
+  "lng": -76.67749
+}]
