@@ -1,6 +1,6 @@
 [
 	{
-		"id": 11111,
+		"id": '1',
 		"resort_type": 2,
 		"name": "Trevi Fountain Luxury Home",
 		"desc": "Admire the mix of ancient and modern offered by this luxury apartment: original 17th century beams and fine antique furniture alongside contemporary amenities and furnishings. Have a coffee on the golden sofa and then go to discover Rome.",
@@ -22,7 +22,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 22222,
+		"id": '2',
 		"resort_type": 4,
 		"name": "Bright, Airy Apartment near the Spanish Steps",
 		"desc": "Admire the mix of ancient and modern offered by this luxury apartment: original 17th century beams and fine antique furniture alongside contemporary amenities and furnishings. Have a coffee on the golden sofa and then go to discover Rome.",
@@ -44,7 +44,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 33333,
+		"id": '3',
 		"resort_type": 1,
 		"name": "Appartamento Allegro e Artistico vicino a Ponte Vecchio",
 		"desc": "Admire the mix of ancient and modern offered by this luxury apartment: original 17th century beams and fine antique furniture alongside contemporary amenities and furnishings. Have a coffee on the golden sofa and then go to discover Rome.\r\nAdmire the mix of ancient and modern offered by this luxury apartment: original 17th century beams and fine antique furniture alongside contemporary amenities and furnishings. Have a coffee on the golden sofa and then go to discover Rome.",
@@ -66,7 +66,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 44444,
+		"id": '4',
 		"resort_type": 2,
 		"name": "Vacanze in Toscana allo Strettoio",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -88,7 +88,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 55555,
+		"id": '5',
 		"resort_type": 2,
 		"name": "Appartamento nel cuore di Firenze",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -110,7 +110,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 66666,
+		"id": '6',
 		"resort_type": 2,
 		"name": "Centro Firenze Bellissimo Appartamento del 500",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -132,7 +132,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 77777,
+		"id": '7',
 		"resort_type": 2,
 		"name": "Sunny, Modern room in East Village!",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -154,7 +154,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 88888,
+		"id": '8',
 		"resort_type": 3,
 		"name": "Manhattan Lux Loft.Like.Love.Lots.Look !",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -176,7 +176,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 99999,
+		"id": '9',
 		"resort_type": 3,
 		"name": "Sun-drenched 1BD in Upper East Side",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.",
@@ -198,7 +198,7 @@
 		"cancellation": 1
 	},
 	{
-		"id": 10000,
+		"id": '10',
 		"resort_type": 3,
 		"name": "Explore Brooklyn's Street Art",
 		"desc": "La Toscana \u00e8 una regione dell'Italia centrale. Il suo capoluogo, Firenze, ospita alcune tra le opere di arte e architettura rinascimentale pi\u00f9 famose al mondo, come il David di Michelangelo, le opere di Botticelli alla Galleria degli Uffizi e il Duomo. Il territorio della regione \u00e8 variegato, e comprende gli aspri Appennini, le spiagge dell'isola d'Elba nel mar Tirreno, gli oliveti e i vigneti del Chianti.Explore Brooklyn's Street Art",
