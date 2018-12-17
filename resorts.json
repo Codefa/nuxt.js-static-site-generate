@@ -1,401 +1,776 @@
-[{
-  "city": "Ōkawara",
-  "lat": 35.5588061,
-  "lng": 138.0410863
-}, {
-  "city": "Krasna",
-  "lat": 48.2240339,
-  "lng": 23.9298885
-}, {
-  "city": "Gapuk",
-  "lat": -8.6743207,
-  "lng": 116.1093533
-}, {
-  "city": "El Plan",
-  "lat": 15.3242623,
-  "lng": -87.9506348
-}, {
-  "city": "Golmud",
-  "lat": 36.406404,
-  "lng": 94.928484
-}, {
-  "city": "São Joaquim",
-  "lat": -28.292455,
-  "lng": -49.9375873
-}, {
-  "city": "Sinmak",
-  "lat": 38.4215487,
-  "lng": 126.2332502
-}, {
-  "city": "Hejiayan",
-  "lat": 32.110878,
-  "lng": 118.724049
-}, {
-  "city": "Kupahandap",
-  "lat": -6.3323202,
-  "lng": 106.0316898
-}, {
-  "city": "Malé Svatoňovice",
-  "lat": 50.5339443,
-  "lng": 16.0497864
-}, {
-  "city": "Araçatuba",
-  "lat": -21.203385,
-  "lng": -50.4439728
-}, {
-  "city": "Si Satchanalai",
-  "lat": 17.4161103,
-  "lng": 99.7790227
-}, {
-  "city": "Vancouver",
-  "lat": 45.616422,
-  "lng": -122.5804528
-}, {
-  "city": "Laocheng",
-  "lat": 34.683646,
-  "lng": 112.469023
-}, {
-  "city": "Uralo-Kavkaz",
-  "lat": 48.3284147,
-  "lng": 39.7960619
-}, {
-  "city": "San Silvestre",
-  "lat": 8.2796966,
-  "lng": -70.109113
-}, {
-  "city": "Shangying",
-  "lat": 35.629547,
-  "lng": 104.026577
-}, {
-  "city": "Sohbatpur",
-  "lat": 28.4499078,
-  "lng": 68.4494842
-}, {
-  "city": "Sortavala",
-  "lat": 61.6487504,
-  "lng": 30.5926449
-}, {
-  "city": "Murfreesboro",
-  "lat": 35.8559647,
-  "lng": -86.3944828
-}, {
-  "city": "Al Jarrāḩī",
-  "lat": 14.1267545,
-  "lng": 43.3970188
-}, {
-  "city": "Aguelmous",
-  "lat": 33.1584786,
-  "lng": -5.8432964
-}, {
-  "city": "Atambua",
-  "lat": -9.101629,
-  "lng": 124.9120662
-}, {
-  "city": "Khurriānwāla",
-  "lat": 31.5233543,
-  "lng": 73.2571865
-}, {
-  "city": "Ibirama",
-  "lat": -27.01139,
-  "lng": -49.5483671
-}, {
-  "city": "Łapczyca",
-  "lat": 49.9513027,
-  "lng": 20.3412605
-}, {
-  "city": "Shucheng Chengguanzhen",
-  "lat": 31.466526,
-  "lng": 116.952766
-}, {
-  "city": "Bolinao",
-  "lat": 16.360983,
-  "lng": 119.843271
-}, {
-  "city": "Shādegān",
-  "lat": 30.6545969,
-  "lng": 48.6539268
-}, {
-  "city": "Zākhū",
-  "lat": 37.1504622,
-  "lng": 42.6726771
-}, {
-  "city": "Saint Catherine",
-  "lat": 28.5594209,
-  "lng": 33.9468956
-}, {
-  "city": "San Agustin",
-  "lat": 20.5439984,
-  "lng": -103.4649786
-}, {
-  "city": "Xiangjiazhai",
-  "lat": 30.89205,
-  "lng": 121.770149
-}, {
-  "city": "Burirao",
-  "lat": 9.159579,
-  "lng": 118.1437875
-}, {
-  "city": "Umabay",
-  "lat": 12.3198776,
-  "lng": 123.6895552
-}, {
-  "city": "Kadupayung",
-  "lat": -6.3629515,
-  "lng": 105.9156477
-}, {
-  "city": "Thị Trấn Sìn Hồ",
-  "lat": 22.3577742,
-  "lng": 103.2493721
-}, {
-  "city": "Quinta dos Frades",
-  "lat": 39.7553682,
-  "lng": -8.7451818
-}, {
-  "city": "Buyunshan",
-  "lat": 40.024639,
-  "lng": 122.711528
-}, {
-  "city": "Xieyang",
-  "lat": 34.329605,
-  "lng": 108.708991
-}, {
-  "city": "Bunutan",
-  "lat": -8.3661233,
-  "lng": 115.674668
-}, {
-  "city": "Gereneng",
-  "lat": -8.694019,
-  "lng": 116.5226451
-}, {
-  "city": "Mariestad",
-  "lat": 58.6701908,
-  "lng": 13.8508024
-}, {
-  "city": "Chegdomyn",
-  "lat": 51.1347637,
-  "lng": 133.0393804
-}, {
-  "city": "Shetangpo",
-  "lat": 28.231564,
-  "lng": 109.621875
-}, {
-  "city": "Evijärvi",
-  "lat": 63.3767052,
-  "lng": 23.472317
-}, {
-  "city": "Sicheng",
-  "lat": 29.5530941,
-  "lng": 118.9353968
-}, {
-  "city": "Krasnyy Lyman",
-  "lat": 48.9897585,
-  "lng": 37.8049964
-}, {
-  "city": "Cijayana",
-  "lat": -7.5352682,
-  "lng": 107.5682677
-}, {
-  "city": "Badulla",
-  "lat": 6.9894573,
-  "lng": 81.057569
-}, {
-  "city": "Daxing",
-  "lat": 39.726929,
-  "lng": 116.341395
-}, {
-  "city": "Khoyniki",
-  "lat": 51.9109552,
-  "lng": 29.9994415
-}, {
-  "city": "Ouango",
-  "lat": 4.3139754,
-  "lng": 22.5498389
-}, {
-  "city": "Artesianón",
-  "lat": "39.40278",
-  "lng": "21.89472"
-}, {
-  "city": "Pasir Mas",
-  "lat": 6.1090652,
-  "lng": 102.133622
-}, {
-  "city": "Los Andes",
-  "lat": -32.8337995,
-  "lng": -70.5972179
-}, {
-  "city": "Inta",
-  "lat": 54.9173747,
-  "lng": 73.4361761
-}, {
-  "city": "Sungai Nyamuk",
-  "lat": 4.1175121,
-  "lng": 117.8663075
-}, {
-  "city": "Pongola",
-  "lat": -33.7363181,
-  "lng": 25.3908518
-}, {
-  "city": "San Francisco",
-  "lat": 8.5057205,
-  "lng": 125.9772286
-}, {
-  "city": "Amboise",
-  "lat": 45.7595382,
-  "lng": 4.8310921
-}, {
-  "city": "Pueblo Nuevo Viñas",
-  "lat": 14.2233899,
-  "lng": -90.4751359
-}, {
-  "city": "Mazyr",
-  "lat": 52.0322082,
-  "lng": 29.222313
-}, {
-  "city": "Tsaghkahovit",
-  "lat": 40.6379848,
-  "lng": 44.2249621
-}, {
-  "city": "Osielsko",
-  "lat": 53.1872306,
-  "lng": 18.0963464
-}, {
-  "city": "Olocuilta",
-  "lat": 13.5681668,
-  "lng": -89.1158008
-}, {
-  "city": "Gabi",
-  "lat": 10.2600338,
-  "lng": 123.958258
-}, {
-  "city": "Bafang",
-  "lat": 5.1601362,
-  "lng": 10.1871351
-}, {
-  "city": "Shuiting",
-  "lat": 26.5807374,
-  "lng": 106.7152864
-}, {
-  "city": "Vodňany",
-  "lat": 49.1478969,
-  "lng": 14.1751311
-}, {
-  "city": "Viljakkala",
-  "lat": 61.7016711,
-  "lng": 23.2638837
-}, {
-  "city": "Kittilä",
-  "lat": 67.6955232,
-  "lng": 24.8590222
-}, {
-  "city": "Tambilil",
-  "lat": 5.9795827,
-  "lng": 124.6723608
-}, {
-  "city": "Sémé",
-  "lat": 15.2008428,
-  "lng": -12.9449928
-}, {
-  "city": "Shazhou",
-  "lat": 31.298974,
-  "lng": 120.585289
-}, {
-  "city": "Baguio",
-  "lat": 16.4112875,
-  "lng": 120.6026406
-}, {
-  "city": "Arma",
-  "lat": -12.09985,
-  "lng": -77.0197479
-}, {
-  "city": "Pescadería",
-  "lat": 18.2901598,
-  "lng": -71.1389101
-}, {
-  "city": "Parigi",
-  "lat": -0.819175,
-  "lng": 120.167297
-}, {
-  "city": "Tatabánya",
-  "lat": 47.585569,
-  "lng": 18.3979984
-}, {
-  "city": "Srubec",
-  "lat": 48.9480609,
-  "lng": 14.5413068
-}, {
-  "city": "Gumalang",
-  "lat": 7.1962805,
-  "lng": 125.4078017
-}, {
-  "city": "Pradera",
-  "lat": 3.4481685,
-  "lng": -76.1667807
-}, {
-  "city": "Chust Shahri",
-  "lat": 41.005341,
-  "lng": 71.236153
-}, {
-  "city": "Bang Phae",
-  "lat": 13.6784265,
-  "lng": 99.9576849
-}, {
-  "city": "Cambé",
-  "lat": -23.277052,
-  "lng": -51.2803152
-}, {
-  "city": "Miramichi",
-  "lat": "47.02895",
-  "lng": "-65.50186"
-}, {
-  "city": "Hashtpar",
-  "lat": 37.8016324,
-  "lng": 48.907262
-}, {
-  "city": "Tatarsk",
-  "lat": 55.1936526,
-  "lng": 75.9684541
-}, {
-  "city": "Mulhouse",
-  "lat": 47.7489727,
-  "lng": 7.3507066
-}, {
-  "city": "Kýthnos",
-  "lat": 37.3933984,
-  "lng": 24.4173321
-}, {
-  "city": "Metz",
-  "lat": 49.116169,
-  "lng": 6.1807997
-}, {
-  "city": "Yulin",
-  "lat": 22.654032,
-  "lng": 110.18122
-}, {
-  "city": "Mileb",
-  "lat": 14.6293712,
-  "lng": 121.1072374
-}, {
-  "city": "Puerta de Corral Quemado",
-  "lat": -34.6255137,
-  "lng": -58.4322185
-}, {
-  "city": "Zelenogradsk",
-  "lat": 54.9562342,
-  "lng": 20.4747022
-}, {
-  "city": "Jakobstad",
-  "lat": 63.6939838,
-  "lng": 22.7427761
-}, {
-  "city": "Lipovci",
-  "lat": 46.6275321,
-  "lng": 16.2176399
-}, {
-  "city": "Liandu",
-  "lat": 28.445928,
-  "lng": 119.912626
-}, {
-  "city": "Chigorodó",
-  "lat": 7.665099,
-  "lng": -76.67749
-}]
+{
+"hits": [
+{
+"created_at": "2018-12-17T10:26:34.000Z",
+"title": "Apache Maven JAR Plugin Version 3.1.1 Released",
+"url": "https://mail-archives.apache.org/mod_mbox/maven-announce/201812.mbox/%3C20181212191351.E6FBA186DE%40minotaur.apache.org%3E",
+"author": "based2",
+"points": 2,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042394,
+"_tags": [
+"story",
+"author_based2",
+"story_18698067"
+],
+"objectID": "18698067",
+"_highlightResult": {
+"title": {
+"value": "Apache Maven JAR Plugin Version 3.1.1 Released",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://mail-archives.apache.org/mod_mbox/maven-announce/201812.mbox/%3C20181212191351.E6FBA186DE%40minotaur.apache.org%3E",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "based2",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:25:34.000Z",
+"title": "Apache Lucene 7.6.0 released",
+"url": "http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCABM%2Bu9KUMokfv9GfdYDfrWpSEDRPvKJa9g9ctsTw7y4o3Uc4Jg%40mail.gmail.com%3E",
+"author": "based2",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042334,
+"_tags": [
+"story",
+"author_based2",
+"story_18698064"
+],
+"objectID": "18698064",
+"_highlightResult": {
+"title": {
+"value": "Apache Lucene 7.6.0 released",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "http://mail-archives.apache.org/mod_mbox/www-announce/201812.mbox/%3CCABM%2Bu9KUMokfv9GfdYDfrWpSEDRPvKJa9g9ctsTw7y4o3Uc4Jg%40mail.gmail.com%3E",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "based2",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:24:46.000Z",
+"title": "SJWJS",
+"url": "http://blog.cleancoder.com/uncle-bob/2018/12/14/SJWJS.html",
+"author": "ligol",
+"points": 3,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042286,
+"_tags": [
+"story",
+"author_ligol",
+"story_18698058"
+],
+"objectID": "18698058",
+"_highlightResult": {
+"title": {
+"value": "SJWJS",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "http://blog.cleancoder.com/uncle-bob/2018/12/14/SJWJS.html",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "ligol",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:24:07.000Z",
+"title": "Show HN: RSS feed reader for Python 3",
+"url": "https://github.com/NicolasLM/feedsubs",
+"author": "nicolaslem",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 1,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042247,
+"_tags": [
+"story",
+"author_nicolaslem",
+"story_18698053",
+"show_hn"
+],
+"objectID": "18698053",
+"_highlightResult": {
+"title": {
+"value": "Show HN: RSS feed reader for Python 3",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://github.com/NicolasLM/feedsubs",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "nicolaslem",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:21:30.000Z",
+"title": "Google Details Major New York Expansion",
+"url": "https://www.wsj.com/articles/google-details-major-new-york-expansion-11545040801",
+"author": "dcgudeman",
+"points": 3,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042090,
+"_tags": [
+"story",
+"author_dcgudeman",
+"story_18698045"
+],
+"objectID": "18698045",
+"_highlightResult": {
+"title": {
+"value": "Google Details Major New York Expansion",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://www.wsj.com/articles/google-details-major-new-york-expansion-11545040801",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "dcgudeman",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:20:14.000Z",
+"title": "Locking in WebKit (2016)",
+"url": "https://webkit.org/blog/6161/locking-in-webkit/",
+"author": "mpweiher",
+"points": 22,
+"story_text": null,
+"comment_text": null,
+"num_comments": 11,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545042014,
+"_tags": [
+"story",
+"author_mpweiher",
+"story_18698036",
+"front_page"
+],
+"objectID": "18698036",
+"_highlightResult": {
+"title": {
+"value": "Locking in WebKit (2016)",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://webkit.org/blog/6161/locking-in-webkit/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "mpweiher",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:14:25.000Z",
+"title": "Maven Basics",
+"url": "https://adityasridhar.com/posts/how-to-get-started-with-maven",
+"author": "adityasridhar",
+"points": 2,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545041665,
+"_tags": [
+"story",
+"author_adityasridhar",
+"story_18698017"
+],
+"objectID": "18698017",
+"_highlightResult": {
+"title": {
+"value": "Maven Basics",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://adityasridhar.com/posts/how-to-get-started-with-maven",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "adityasridhar",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:04:59.000Z",
+"title": "Making of Byrne’s Euclid",
+"url": "https://www.c82.net/blog/?id=79",
+"author": "anc84",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545041099,
+"_tags": [
+"story",
+"author_anc84",
+"story_18697981"
+],
+"objectID": "18697981",
+"_highlightResult": {
+"title": {
+"value": "Making of Byrne’s Euclid",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://www.c82.net/blog/?id=79",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "anc84",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:04:18.000Z",
+"title": "Async/Await for JavaScript Arrays",
+"url": "https://github.com/rpgeeganage/async-ray",
+"author": "geeg",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 1,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545041058,
+"_tags": [
+"story",
+"author_geeg",
+"story_18697979"
+],
+"objectID": "18697979",
+"_highlightResult": {
+"title": {
+"value": "Async/Await for JavaScript Arrays",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://github.com/rpgeeganage/async-ray",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "geeg",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:04:05.000Z",
+"title": "How to convert video files format with c language",
+"url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial#chapter-2---remuxing",
+"author": "dreampeppers99",
+"points": 4,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545041045,
+"_tags": [
+"story",
+"author_dreampeppers99",
+"story_18697977"
+],
+"objectID": "18697977",
+"_highlightResult": {
+"title": {
+"value": "How to convert video files format with c language",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://github.com/leandromoreira/ffmpeg-libav-tutorial#chapter-2---remuxing",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "dreampeppers99",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:03:36.000Z",
+"title": "NIO launches ES6, it’s second all-electric SUV in China",
+"url": "https://1reddrop.com/2018/12/17/nio-launches-es6-its-second-all-electric-suv-in-china/",
+"author": "STNash",
+"points": 2,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545041016,
+"_tags": [
+"story",
+"author_STNash",
+"story_18697975"
+],
+"objectID": "18697975",
+"_highlightResult": {
+"title": {
+"value": "NIO launches ES6, it’s second all-electric SUV in China",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://1reddrop.com/2018/12/17/nio-launches-es6-its-second-all-electric-suv-in-china/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "STNash",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T10:02:35.000Z",
+"title": "Closing my Patreon account",
+"url": "https://twitter.com/samharrisorg/status/1074504882210562048",
+"author": "playpause",
+"points": 6,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545040955,
+"_tags": [
+"story",
+"author_playpause",
+"story_18697973"
+],
+"objectID": "18697973",
+"_highlightResult": {
+"title": {
+"value": "Closing my Patreon account",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://twitter.com/samharrisorg/status/1074504882210562048",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "playpause",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:58:40.000Z",
+"title": "Incremental crawler with Scrapy and MongoDB",
+"url": "https://blog.dipasquale.fr/en/2018/12/17/incremental-scraping-with-scrapy-and-mongo/",
+"author": "adipasquale",
+"points": 2,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545040720,
+"_tags": [
+"story",
+"author_adipasquale",
+"story_18697956"
+],
+"objectID": "18697956",
+"_highlightResult": {
+"title": {
+"value": "Incremental crawler with Scrapy and MongoDB",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://blog.dipasquale.fr/en/2018/12/17/incremental-scraping-with-scrapy-and-mongo/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "adipasquale",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:57:23.000Z",
+"title": "Assessing the efficiency of changes in land use for mitigating climate change",
+"url": "https://www.nature.com/articles/s41586-018-0757-z.epdf?referrer_access_token=I7UR5g-NP-JvG8VPiosw1dRgN0jAjWel9jnR3ZoTv0PXM0q98wVc5Cye9177r-q8sNyzReL1wHb1-jY_I6qP66ClTmdoclsh_ooUZbWWgCkeTL17k3xx9hpnAUvS1lQRjnA3nc7fFVQAnBsXhOxnBDnGatsN9uObfrvJNQvIa8dfcEQzSc19K-qx-NZU776puJ3lMvsiikh0NYDfxKrCWgIN3vm0Uas7j1BKLeFKCADi8Ez40nz9DhaIDSLDFis8_JgcBChg0F8naEMiu_3pCbkbzUNedjKlPV_Tjj-5bQOXrMhXkvaG4w-D91SoQEhhmllghNRbyeXArS_MSdfy_Q%3D%3D&tracking_referrer=www.spektrum.de",
+"author": "doener",
+"points": 4,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545040643,
+"_tags": [
+"story",
+"author_doener",
+"story_18697951",
+"front_page"
+],
+"objectID": "18697951",
+"_highlightResult": {
+"title": {
+"value": "Assessing the efficiency of changes in land use for mitigating climate change",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://www.nature.com/articles/s41586-018-0757-z.epdf?referrer_access_token=I7UR5g-NP-JvG8VPiosw1dRgN0jAjWel9jnR3ZoTv0PXM0q98wVc5Cye9177r-q8sNyzReL1wHb1-jY_I6qP66ClTmdoclsh_ooUZbWWgCkeTL17k3xx9hpnAUvS1lQRjnA3nc7fFVQAnBsXhOxnBDnGatsN9uObfrvJNQvIa8dfcEQzSc19K-qx-NZU776puJ3lMvsiikh0NYDfxKrCWgIN3vm0Uas7j1BKLeFKCADi8Ez40nz9DhaIDSLDFis8_JgcBChg0F8naEMiu_3pCbkbzUNedjKlPV_Tjj-5bQOXrMhXkvaG4w-D91SoQEhhmllghNRbyeXArS_MSdfy_Q%3D%3D&tracking_referrer=www.spektrum.de",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "doener",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:56:26.000Z",
+"title": "Sr.ht meta: Git open source software suite for managing software devt projects",
+"url": "https://meta.sr.ht/",
+"author": "based2",
+"points": 3,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545040586,
+"_tags": [
+"story",
+"author_based2",
+"story_18697948"
+],
+"objectID": "18697948",
+"_highlightResult": {
+"title": {
+"value": "Sr.ht meta: Git open source software suite for managing software devt projects",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://meta.sr.ht/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "based2",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:50:41.000Z",
+"title": "#clojure: Why does (seq nil) return nil but (str nil) return “”?",
+"url": "http://tank.hyperfiddle.com/:dustingetz.storm!view/~entity(%27$%27,17592186047432)",
+"author": "based2",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 1,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545040241,
+"_tags": [
+"story",
+"author_based2",
+"story_18697923"
+],
+"objectID": "18697923",
+"_highlightResult": {
+"title": {
+"value": "#clojure: Why does (seq nil) return nil but (str nil) return “”?",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "http://tank.hyperfiddle.com/:dustingetz.storm!view/~entity(%27$%27,17592186047432)",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "based2",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:46:25.000Z",
+"title": "LEAR: HTTP server designed to be simple and fast to serve static resources",
+"url": "https://github.com/Glorf/lear",
+"author": "mbien",
+"points": 10,
+"story_text": null,
+"comment_text": null,
+"num_comments": 6,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545039985,
+"_tags": [
+"story",
+"author_mbien",
+"story_18697910",
+"front_page"
+],
+"objectID": "18697910",
+"_highlightResult": {
+"title": {
+"value": "LEAR: HTTP server designed to be simple and fast to serve static resources",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://github.com/Glorf/lear",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "mbien",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:44:57.000Z",
+"title": "WaystoCap (YC W17) Expands into West Africa",
+"url": "http://disrupt-africa.com/2018/12/moroccan-e-commerce-startup-waystocap-expanding-into-west-africa/",
+"author": "niccolop",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545039897,
+"_tags": [
+"story",
+"author_niccolop",
+"story_18697904"
+],
+"objectID": "18697904",
+"_highlightResult": {
+"title": {
+"value": "WaystoCap (YC W17) Expands into West Africa",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "http://disrupt-africa.com/2018/12/moroccan-e-commerce-startup-waystocap-expanding-into-west-africa/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "niccolop",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:41:21.000Z",
+"title": "CPRC: Mass Shootings Are Higher Outside US and Increasing",
+"url": "https://crimeresearch.org/2018/11/new-cprc-research-mass-public-shootings-are-much-higher-in-the-rest-of-the-world-and-increasing-much-more-quickly/",
+"author": "tomohawk",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545039681,
+"_tags": [
+"story",
+"author_tomohawk",
+"story_18697891"
+],
+"objectID": "18697891",
+"_highlightResult": {
+"title": {
+"value": "CPRC: Mass Shootings Are Higher Outside US and Increasing",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://crimeresearch.org/2018/11/new-cprc-research-mass-public-shootings-are-much-higher-in-the-rest-of-the-world-and-increasing-much-more-quickly/",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "tomohawk",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+},
+{
+"created_at": "2018-12-17T09:39:31.000Z",
+"title": "Apple might be making its own cellular chips to compete with Qualcomm",
+"url": "https://www.theverge.com/circuitbreaker/2018/12/12/18137816/apple-modem-qualcomm-intel-iphone-competition-engineer-hiring",
+"author": "elorant",
+"points": 1,
+"story_text": null,
+"comment_text": null,
+"num_comments": 0,
+"story_id": null,
+"story_title": null,
+"story_url": null,
+"parent_id": null,
+"created_at_i": 1545039571,
+"_tags": [
+"story",
+"author_elorant",
+"story_18697883"
+],
+"objectID": "18697883",
+"_highlightResult": {
+"title": {
+"value": "Apple might be making its own cellular chips to compete with Qualcomm",
+"matchLevel": "none",
+"matchedWords": []
+},
+"url": {
+"value": "https://www.theverge.com/circuitbreaker/2018/12/12/18137816/apple-modem-qualcomm-intel-iphone-competition-engineer-hiring",
+"matchLevel": "none",
+"matchedWords": []
+},
+"author": {
+"value": "elorant",
+"matchLevel": "none",
+"matchedWords": []
+}
+}
+}
+],
+"nbHits": 1864025,
+"page": 1,
+"nbPages": 50,
+"hitsPerPage": 20,
+"processingTimeMS": 5,
+"exhaustiveNbHits": false,
+"query": "",
+"params": "advancedSyntax=true&analytics=false&page=1&tags=story"
+}
