@@ -10,9 +10,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "axios": "latest",
+    "axios": "^0.18.0",
     "mkdirp-promise": "^5.0.1",
-    "nuxt": "latest"
+    "nuxt": "^2.4.3"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
