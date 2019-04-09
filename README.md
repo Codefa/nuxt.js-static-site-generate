@@ -1,4 +1,4 @@
-# nuxt-static-test
+# nuxt.js-static-site-generate
 A static userinfo built with Nuxt.js and JSONPlaceholder
 
 Build Setup
